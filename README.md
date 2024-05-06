@@ -7,14 +7,6 @@
 
 - 🔭 I’m currently working as **Associate Software Engineer at THIS Organization**
 
-- 🌱 I’m currently learning **Angular, Django, Spring, MongoDB**
-
-- 👯 I’m looking to collaborate on **Software Development Projects**
-
-- 🤝 I’m looking for help with **Open Source and Full Stack Development**
-
-- 💬 Ask me about **Java, Junit, Flask, Django, MySQL, REST API, SQLite, Redis, Git, GitHub, Docker, Maven, Unix/Shell Scripting, CI-CD tools and Open-Source World**
-
 - 📫 How to reach me **https://in.linkedin.com/in/abubakarmulla23**
 
 <h3 align="left">Connect with me:</h3>
